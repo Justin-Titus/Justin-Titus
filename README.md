@@ -7,8 +7,6 @@
   <img alt="Justin Titus J" src="./header.svg" width="100%">
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:161b22,100:36BCF7&amp;height=250&amp;section=header&amp;text=Justin%20Titus&amp;fontSize=70&amp;fontAlignY=35&amp;animation=twinkling&amp;fontColor=ffffff&amp;desc=Full-Stack%20Developer%20%7C%20AI%20%26%20ML%20Honours&amp;descAlignY=55&amp;descSize=20" width="100%" />
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Building+scalable+web+apps+%26+AI+solutions;Mastering+Next.js,+FastAPI,+and+PostgreSQL;Translating+complex+problems+into+elegant+code" alt="Typing SVG" />
 
 <br>
@@ -275,16 +273,16 @@
 <div align="center">
   
   <a href="https://github.com/Justin-Titus">
-  <img src="https://github-readme-stats.vercel.app/api?username=Justin-Titus&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" alt="Justin-Titus's GitHub Stats" width="48%" />
-</a>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Justin-Titus&theme=tokyonight" alt="Justin-Titus's GitHub Profile Details" width="48%" />
+  </a>
   <a href="https://github.com/Justin-Titus">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Justin-Titus&theme=tokyonight&hide_border=true" alt="Justin-Titus's Streak" width="48%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Justin-Titus&theme=tokyonight" alt="Justin-Titus's GitHub Stats" width="48%" />
   </a>
 
   <br><br>
-<a href="https://github.com/Justin-Titus">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justin-Titus&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="60%" />
-</a>
+  <a href="https://github.com/Justin-Titus">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Justin-Titus&theme=tokyonight&hide_border=true" alt="Justin-Titus's Streak" width="60%" />
+  </a>
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
