@@ -7,7 +7,7 @@
   <img alt="Justin Titus J" src="./header.svg" width="100%">
 </picture>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Building+scalable+web+apps+%26+AI+solutions;Mastering+Next.js,+FastAPI,+and+PostgreSQL;Translating+complex+problems+into+elegant+code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Building+scalable+web+apps+%26+AI+solutions;Mastering+Next.js,+FastAPI,+and+PostgreSQL;Translating+complex+problems+into+elegant+code" alt="Typing SVG" width="100%" />
 
 <br>
 
@@ -36,37 +36,39 @@
 
 <br/>
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center" valign="top">
+    <td align="center" valign="top" width="50%">
       <img src="https://img.icons8.com/color/96/graduation-cap.png" width="40px" />
-      <br /><b>🎓 Education</b>
+      <br /><b>Education</b>
       <br /><small>B.E. Computer Science</small>
       <br /><small><i>Honours in AI & ML</i></small>
       <br /><small>Jeppiaar Engineering College</small>
-      <br /><small><b>Class of 2026</b></small>
+      <br /><small><i>(Anna University)</i></small>
     </td>
-    <td align="center" valign="top">
+    <td align="center" valign="top" width="50%">
       <img src="https://img.icons8.com/color/96/briefcase.png" width="40px" />
-      <br /><b>💼 Experience</b>
+      <br /><b>Experience</b>
       <br /><small>React Intern</small>
       <br /><small>Softek Square Pvt. Ltd.</small>
       <br /><small><i>Building scalable</i></small>
       <br /><small><i>component-driven apps</i></small>
     </td>
-    <td align="center" valign="top">
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
       <img src="https://img.icons8.com/color/96/source-code.png" width="40px" />
-      <br /><b>🌱 Learning</b>
+      <br /><b>Learning</b>
       <br /><small>Next.js & FastAPI</small>
       <br /><small>AI Integrations</small>
       <br /><small><i>Vercel AI SDK & Groq</i></small>
     </td>
-    <td align="center" valign="top">
+    <td align="center" valign="top" width="50%">
       <img src="https://img.icons8.com/color/96/handshake.png" width="40px" />
-      <br /><b>🤝 Collaborate</b>
+      <br /><b>Collaborate</b>
       <br /><small>Open Source</small>
       <br /><small>Innovative Tech</small>
-      <br /><small><i>3D WebGL experiences</i></small>
+      <br /><small><i>Full Stack</i></small>
     </td>
   </tr>
 </table>
@@ -84,10 +86,10 @@
 <!-- Responsive Grid -->
 <table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 <!-- AMORTIX -->
-<div>
+<div align="center">
 <h3>⬡ AMORTIX</h3>
 <p><i>AI Debt Optimization Platform</i></p>
 <p>AI-powered debt repayment strategy simulator with Groq + Vercel SDK. Features Snowball/Avalanche calculators, PDF export, Google OAuth.</p>
@@ -101,9 +103,10 @@
 </div>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 <!-- FINTRAQ -->
+<div align="center">
 <h3>⬡ FINTRAQ</h3>
 <p><i>Financial Tracking Web App</i></p>
 <p>Personal finance tracker with category analytics, trend visualization, JWT auth, MongoDB Atlas.</p>
@@ -119,9 +122,10 @@
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 <!-- PORTFOLIO -->
+<div align="center">
 <h3>⬡ PORTFOLIO</h3>
 <p><i>3D Interactive Developer Space</i></p>
 <p>WebGL portfolio with React Three Fiber + Rapier physics, Framer Motion transitions, config-driven architecture.</p>
@@ -135,9 +139,10 @@
 </div>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 <!-- ELANCART -->
+<div align="center">
 <h3>⬡ ELANCART</h3>
 <p><i>E-Commerce Front-End</i></p>
 <p>Production-grade React storefront with cart, wishlist, checkout flow, Material UI.</p>
@@ -168,25 +173,25 @@
 
 <br/>
 
-**Languages**
+**Languages**<br/>
 
 [![Skills](https://skillicons.dev/icons?i=python,typescript,javascript,java,c&theme=dark&perline=5)](https://skillicons.dev)
 
 <br/>
 
-**Frontend**
+**Frontend**<br/>
 
 [![Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,threejs,html,css,materialui,vite,figma&theme=dark&perline=10)](https://skillicons.dev)
 
 <br/>
 
-**Backend & Database**
+**Backend & Database**<br/>
 
 [![Skills](https://skillicons.dev/icons?i=fastapi,nodejs,express,mongodb,postgresql,mysql,supabase,prisma&theme=dark&perline=8)](https://skillicons.dev)
 
 <br/>
 
-**Tools & Platforms**
+**Tools & Platforms**<br/>
 
 [![Skills](https://skillicons.dev/icons?i=git,github,vercel,netlify,docker,postman,vscode,androidstudio&theme=dark&perline=8)](https://skillicons.dev)
 
@@ -196,28 +201,38 @@
 
 ---
 
+<!-- ═══════════════════ GITHUB ANALYSIS ═══════════════════ -->
+
 <div align="center">
 
   ### GITHUB ANALYSIS
+  <br/>
 
-  <a href="https://github.com/Justin-Titus">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Justin-Titus&theme=tokyonight" alt="Justin-Titus's GitHub Profile Details" width="48%" />
-  </a>
-  <a href="https://github.com/Justin-Titus">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Justin-Titus&theme=tokyonight" alt="Justin-Titus's GitHub Stats" width="48%" />
-  </a>
+  <p>
+    <a href="https://github.com/Justin-Titus">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Justin-Titus&theme=tokyonight" alt="Justin-Titus's GitHub Profile Details" />
+    </a>
+  </p>
 
-  <br><br>
-  <a href="https://github.com/Justin-Titus">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Justin-Titus&theme=tokyonight&hide_border=true" alt="Justin-Titus's Streak" width="60%" />
-  </a>
+  <p>
+    <a href="https://github.com/Justin-Titus">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Justin-Titus&theme=tokyonight" alt="Justin-Titus's GitHub Stats" width="60%"/>
+    </a>
+  </p>
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Justin-Titus&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Justin Titus Trophies" />
-  </a>
-</div>
-<br/>
+
+
+  <p>
+    <a href="https://github.com/Justin-Titus">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Justin-Titus&theme=tokyonight&hide_border=true" alt="Justin-Titus's Streak" width="80%" />
+    </a>
+  </p>
+
+  <p>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=Justin-Titus&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Justin Titus Trophies" width="100%" />
+    </a>
+  </p>
 
 </div>
 
