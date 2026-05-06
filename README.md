@@ -32,49 +32,41 @@
 
 <div align="center">
 
-### 👨‍💻 ABOUT ME
+### ABOUT ME
 
 <br/>
 
-<table width="100%">
+<table>
   <tr>
-    <td>
-      <blockquote>
-        🎓 <b>Education</b><br>
-        B.E. Computer Science Engineering<br>
-        <i>(Honours in AI & ML)</i><br>
-        Jeppiaar Engineering College (Class of 2026)
-      </blockquote>
+    <td align="center" valign="top">
+      <img src="https://img.icons8.com/color/96/graduation-cap.png" width="40px" />
+      <br /><b>🎓 Education</b>
+      <br /><small>B.E. Computer Science</small>
+      <br /><small><i>Honours in AI & ML</i></small>
+      <br /><small>Jeppiaar Engineering College</small>
+      <br /><small><b>Class of 2026</b></small>
     </td>
-  </tr>
-  <tr>
-    <td>
-      <blockquote>
-        💼 <b>Experience</b><br>
-        React Intern @ Softek Square Pvt. Ltd.<br>
-        <br>
-        <i>Building scalable, component-driven applications.</i>
-      </blockquote>
+    <td align="center" valign="top">
+      <img src="https://img.icons8.com/color/96/briefcase.png" width="40px" />
+      <br /><b>💼 Experience</b>
+      <br /><small>React Intern</small>
+      <br /><small>Softek Square Pvt. Ltd.</small>
+      <br /><small><i>Building scalable</i></small>
+      <br /><small><i>component-driven apps</i></small>
     </td>
-  </tr>
-  <tr>
-    <td>
-      <blockquote>
-        🌱 <b>Currently Mastering</b><br>
-        Next.js, FastAPI, & AI Integrations<br>
-        <br>
-        <i>Leveraging Vercel AI SDK & Groq for full-stack apps.</i>
-      </blockquote>
+    <td align="center" valign="top">
+      <img src="https://img.icons8.com/color/96/source-code.png" width="40px" />
+      <br /><b>🌱 Learning</b>
+      <br /><small>Next.js & FastAPI</small>
+      <br /><small>AI Integrations</small>
+      <br /><small><i>Vercel AI SDK & Groq</i></small>
     </td>
-  </tr>
-  <tr>
-    <td>
-      <blockquote>
-        🤝 <b>Looking to Collaborate</b><br>
-        Open Source & Innovative Tech<br>
-        <br>
-        <i>Particularly interested in 3D WebGL experiences.</i>
-      </blockquote>
+    <td align="center" valign="top">
+      <img src="https://img.icons8.com/color/96/handshake.png" width="40px" />
+      <br /><b>🤝 Collaborate</b>
+      <br /><small>Open Source</small>
+      <br /><small>Innovative Tech</small>
+      <br /><small><i>3D WebGL experiences</i></small>
     </td>
   </tr>
 </table>
@@ -83,146 +75,86 @@
 <br/>
 
 <!-- ═══════════════════ FEATURED PROJECTS ═══════════════════ -->
-
 <div align="center">
 
-### ◈ FEATURED PROJECTS
+### FEATURED PROJECTS
 
-</div>
+<br>
 
-<br/>
-
-<table align="center" width="100%">
-
-<!-- ROW 1 -->
+<!-- Responsive Grid -->
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
-<br>
-<div align="center">
-  <h3>⬡ AMORTIX</h3>
-  <p><i>AI Debt Optimization Platform</i></p>
+<td width="50%">
+
+<!-- AMORTIX -->
+<div>
+<h3>⬡ AMORTIX</h3>
+<p><i>AI Debt Optimization Platform</i></p>
+<p>AI-powered debt repayment strategy simulator with Groq + Vercel SDK. Features Snowball/Avalanche calculators, PDF export, Google OAuth.</p>
+<p>
+<code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>PostgreSQL</code>
+</p>
+<p>
+<a href="https://amortix.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live-36BCF7?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="https://github.com/Justin-Titus/amortix" target="_blank"><img src="https://img.shields.io/badge/Source-161b22?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 </div>
 
-> A full-stack financial system that helps users crush debt with AI-powered repayment strategy simulation.
-
-**✨ Key Features:**
-<ul>
-  <li>🤖 <b>Groq-powered</b> AI advisor via Vercel SDK</li>
-  <li>📊 <b>Snowball vs. Avalanche</b> strategy simulator</li>
-  <li>📄 <b>PDF export</b> for amortization schedules</li>
-  <li>🔐 <b>Google OAuth + Supabase RLS</b> security</li>
-</ul>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-</div>
-<br>
-<div align="center">
-<a href="https://amortix.vercel.app"><img src="https://img.shields.io/badge/Live_Site-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live"></a>
-  <a href="https://github.com/Justin-Titus/amortix"><img src="https://img.shields.io/badge/Source_Code-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Source"></a>
-</div>
-<br>
 </td>
+<td width="50%">
 
-<td width="50%" valign="top">
-<br>
-<div align="center">
-  <h3>⬡ FINTRAQ</h3>
-  <p><i>Financial Tracking Web App</i></p>
+<!-- FINTRAQ -->
+<h3>⬡ FINTRAQ</h3>
+<p><i>Financial Tracking Web App</i></p>
+<p>Personal finance tracker with category analytics, trend visualization, JWT auth, MongoDB Atlas.</p>
+<p>
+<code>React</code> <code>FastAPI</code> <code>MongoDB</code> <code>Tailwind</code>
+</p>
+<p>
+<a href="https://fintraq.onrender.com" target="_blank"><img src="https://img.shields.io/badge/Live-36BCF7?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="https://github.com/Justin-Titus/fintraq" target="_blank"><img src="https://img.shields.io/badge/Source-161b22?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 </div>
 
-> A full-stack personal finance tracker with category analytics, trend visualization, and secure backend.
-
-**✨ Key Features:**
-<ul>
-  <li>📈 <b>Income & expense</b> management with tags</li>
-  <li>📉 <b>Monthly trend</b> visualization & breakdown</li>
-  <li>🔐 <b>JWT authentication</b> system via FastAPI</li>
-  <li>☁️ <b>MongoDB Atlas</b> for scalable cloud storage</li>
-</ul>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-</div>
-<br>
-<div align="center">
-<a href="https://fintraq.onrender.com"><img src="https://img.shields.io/badge/Live_Site-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live"></a>
-  <a href="https://github.com/Justin-Titus/fintraq"><img src="https://img.shields.io/badge/Source_Code-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Source"></a>
-</div>
-<br>
 </td>
 </tr>
-
-<!-- ROW 2 -->
 <tr>
-<td width="50%" valign="top">
-<br>
-<div align="center">
-  <h3>⬡ PORTFOLIO</h3>
-  <p><i>3D Interactive Developer Space</i></p>
+<td width="50%">
+
+<!-- PORTFOLIO -->
+<h3>⬡ PORTFOLIO</h3>
+<p><i>3D Interactive Developer Space</i></p>
+<p>WebGL portfolio with React Three Fiber + Rapier physics, Framer Motion transitions, config-driven architecture.</p>
+<p>
+<code>Next.js</code> <code>Three.js</code> <code>Framer Motion</code>
+</p>
+<p>
+<a href="https://justin-titus.me" target="_blank"><img src="https://img.shields.io/badge/Live-36BCF7?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="https://github.com/Justin-Titus" target="_blank"><img src="https://img.shields.io/badge/Source-161b22?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 </div>
 
-> Not just a portfolio — a WebGL experience. Physics-driven 3D scene, smooth animations, fully dynamic.
-
-**✨ Key Features:**
-<ul>
-  <li>🎮 <b>React Three Fiber</b> + Rapier physics engine</li>
-  <li>🌊 <b>Framer Motion</b> page transitions</li>
-  <li>⚙️ <b>Config-driven</b> project/skills architecture</li>
-  <li>⚡ <b>Vercel Speed Insights</b> + Core Web Vitals</li>
-</ul>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
-</div>
-<br>
-<div align="center">
-  <a href="https://justin-titus.me"><img src="https://img.shields.io/badge/Live_Site-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live"></a>
-  <a href="https://github.com/Justin-Titus"><img src="https://img.shields.io/badge/Source_Code-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Source"></a>
-</div>
-<br>
 </td>
+<td width="50%">
 
-<td width="50%" valign="top">
-<br>
-<div align="center">
-  <h3>⬡ ELANCART</h3>
-  <p><i>E-Commerce Front-End</i></p>
+<!-- ELANCART -->
+<h3>⬡ ELANCART</h3>
+<p><i>E-Commerce Front-End</i></p>
+<p>Production-grade React storefront with cart, wishlist, checkout flow, Material UI.</p>
+<p>
+<code>React</code> <code>Material UI</code> <code>Axios</code>
+</p>
+<p>
+<a href="https://elancart.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Live-36BCF7?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="https://github.com/Justin-Titus/elancart" target="_blank"><img src="https://img.shields.io/badge/Source-161b22?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 </div>
 
-> A modular, production-grade React storefront with cart, wishlist, product detail, and checkout flow.
-
-**✨ Key Features:**
-<ul>
-  <li>🛒 <b>Cart & wishlist</b> with Context API state</li>
-  <li>🔍 <b>Dynamic listings</b> + detailed product pages</li>
-  <li>💳 <b>Checkout flow</b> with placeholder payments</li>
-  <li>🎨 <b>Material UI</b> + CSS Modules for polished UI</li>
-</ul>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" />
-</div>
-<br>
-<div align="center">
-<a href="https://elancart.netlify.app"><img src="https://img.shields.io/badge/Live_Site-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live"></a>
-  <a href="https://github.com/Justin-Titus/elancart"><img src="https://img.shields.io/badge/Source_Code-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Source"></a>
-</div>
-<br>
 </td>
 </tr>
-
 </table>
+
+</div>
 
 <br/>
 
@@ -232,29 +164,29 @@
 
 <div align="center">
 
-### ◈ TECH STACK
+### TECH STACK
 
 <br/>
 
-**— Languages —**
+**Languages**
 
 [![Skills](https://skillicons.dev/icons?i=python,typescript,javascript,java,c&theme=dark&perline=5)](https://skillicons.dev)
 
 <br/>
 
-**— Frontend —**
+**Frontend**
 
 [![Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,threejs,html,css,materialui,vite,figma&theme=dark&perline=10)](https://skillicons.dev)
 
 <br/>
 
-**— Backend & Database —**
+**Backend & Database**
 
 [![Skills](https://skillicons.dev/icons?i=fastapi,nodejs,express,mongodb,postgresql,mysql,supabase,prisma&theme=dark&perline=8)](https://skillicons.dev)
 
 <br/>
 
-**— Tools & Platforms —**
+**Tools & Platforms**
 
 [![Skills](https://skillicons.dev/icons?i=git,github,vercel,netlify,docker,postman,vscode,androidstudio&theme=dark&perline=8)](https://skillicons.dev)
 
@@ -264,10 +196,10 @@
 
 ---
 
-### 📊 GitHub Analytics
-
 <div align="center">
-  
+
+  ### GITHUB ANALYSIS
+
   <a href="https://github.com/Justin-Titus">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Justin-Titus&theme=tokyonight" alt="Justin-Titus's GitHub Profile Details" width="48%" />
   </a>
