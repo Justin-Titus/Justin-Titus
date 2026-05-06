@@ -36,51 +36,47 @@
 
 <br/>
 
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-
-<blockquote>
-  🎓 <b>Education</b><br>
-  B.E. Computer Science Engineering<br>
-  <i>(Honours in AI & ML)</i><br>
-  Jeppiaar Engineering College (Class of 2026)
-</blockquote>
-
-</td>
-<td width="50%" valign="top">
-
-<blockquote>
-  💼 <b>Experience</b><br>
-  React Intern @ Softek Square Pvt. Ltd.<br>
-  <br>
-  <i>Building scalable, component-driven applications.</i>
-</blockquote>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<blockquote>
-  🌱 <b>Currently Mastering</b><br>
-  Next.js, FastAPI, & AI Integrations<br>
-  <br>
-  <i>Leveraging Vercel AI SDK & Groq for full-stack apps.</i>
-</blockquote>
-
-</td>
-<td width="50%" valign="top">
-
-<blockquote>
-  🤝 <b>Looking to Collaborate</b><br>
-  Open Source & Innovative Tech<br>
-  <br>
-  <i>Particularly interested in 3D WebGL experiences.</i>
-</blockquote>
-
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td>
+      <blockquote>
+        🎓 <b>Education</b><br>
+        B.E. Computer Science Engineering<br>
+        <i>(Honours in AI & ML)</i><br>
+        Jeppiaar Engineering College (Class of 2026)
+      </blockquote>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <blockquote>
+        💼 <b>Experience</b><br>
+        React Intern @ Softek Square Pvt. Ltd.<br>
+        <br>
+        <i>Building scalable, component-driven applications.</i>
+      </blockquote>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <blockquote>
+        🌱 <b>Currently Mastering</b><br>
+        Next.js, FastAPI, & AI Integrations<br>
+        <br>
+        <i>Leveraging Vercel AI SDK & Groq for full-stack apps.</i>
+      </blockquote>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <blockquote>
+        🤝 <b>Looking to Collaborate</b><br>
+        Open Source & Innovative Tech<br>
+        <br>
+        <i>Particularly interested in 3D WebGL experiences.</i>
+      </blockquote>
+    </td>
+  </tr>
 </table>
 
 </div>
@@ -125,7 +121,7 @@
 </div>
 <br>
 <div align="center">
-<a href="https://amortix.vercel.app"><img src="https://img.shields.io/badge/Live_Site-00f5d4?style=for-the-badge&logo=vercel&logoColor=black" alt="Live"></a>
+<a href="https://amortix.vercel.app"><img src="https://img.shields.io/badge/Live_Site-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live"></a>
   <a href="https://github.com/Justin-Titus/amortix"><img src="https://img.shields.io/badge/Source_Code-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Source"></a>
 </div>
 <br>
@@ -156,7 +152,7 @@
 </div>
 <br>
 <div align="center">
-<a href="https://fintraq.onrender.com"><img src="https://img.shields.io/badge/Live_Site-00f5d4?style=for-the-badge&logo=vercel&logoColor=black" alt="Live"></a>
+<a href="https://fintraq.onrender.com"><img src="https://img.shields.io/badge/Live_Site-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live"></a>
   <a href="https://github.com/Justin-Titus/fintraq"><img src="https://img.shields.io/badge/Source_Code-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Source"></a>
 </div>
 <br>
@@ -189,7 +185,7 @@
 </div>
 <br>
 <div align="center">
-  <a href="https://justin-titus.me"><img src="https://img.shields.io/badge/Live_Site-00f5d4?style=for-the-badge&logo=vercel&logoColor=black" alt="Live"></a>
+  <a href="https://justin-titus.me"><img src="https://img.shields.io/badge/Live_Site-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live"></a>
   <a href="https://github.com/Justin-Titus"><img src="https://img.shields.io/badge/Source_Code-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Source"></a>
 </div>
 <br>
@@ -219,7 +215,7 @@
 </div>
 <br>
 <div align="center">
-<a href="https://elancart.netlify.app"><img src="https://img.shields.io/badge/Live_Site-00f5d4?style=for-the-badge&logo=vercel&logoColor=black" alt="Live"></a>
+<a href="https://elancart.netlify.app"><img src="https://img.shields.io/badge/Live_Site-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live"></a>
   <a href="https://github.com/Justin-Titus/elancart"><img src="https://img.shields.io/badge/Source_Code-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Source"></a>
 </div>
 <br>
@@ -248,7 +244,7 @@
 
 **— Frontend —**
 
-[![Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,threejs,framermotion,html,css,materialui,vite,figma&theme=dark&perline=10)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,threejs,html,css,materialui,vite,figma&theme=dark&perline=10)](https://skillicons.dev)
 
 <br/>
 
